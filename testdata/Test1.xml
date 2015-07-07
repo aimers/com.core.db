@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<dataset>
+	<table name="ADDMT">
+		<column>ADID</column>
+		<column>LDMK</column>
+		<column>LCLT</column>
+		<column>CTID</column>
+		<column>PIN</column>
+	</table>
+</dataset>
