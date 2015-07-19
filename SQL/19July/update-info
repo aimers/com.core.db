@@ -7,3 +7,13 @@ Altered MappingID data type in user characteristics mapping table - UCHMP
 Altered MappingID Auto_Increment in user characteristics mapping table - UCHMP
 Inserted Entity Characteristics records - ECHMT
 *****************************************************************************************
+
+
+
+
+*****************************************************************************************
+1159pm.sql
+*****************************************************************************************
+Inserted Entity Icon Characteristics -- ECHMT
+Updated Entity Icon Characteristics -- ECHMT
+*****************************************************************************************
