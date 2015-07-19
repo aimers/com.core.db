@@ -11,7 +11,7 @@ INSERT INTO `bookingdb`.`echmt` (`ECMID`, `MPNID`, `VALUE`, `ACTIV`, `CRTDT`, `C
 
 
 
-UPDATE `bookingdb`.`echmt` SET `VALUE` = 'Neurologist.png' WHERE `echmt`.`ECMID` = 11;
+UPDATE `bookingdb`.`echmt` SET `VALUE` = 'Neurologist.png' WHERE `echmt`.`ECMID` = 12;
 UPDATE `bookingdb`.`echmt` SET `VALUE` = 'Homeopath.png' WHERE `echmt`.`ECMID` = 11;
 UPDATE `bookingdb`.`echmt` SET `VALUE` = 'dentist.png' WHERE `echmt`.`ECMID` = 10;
 UPDATE `bookingdb`.`echmt` SET `VALUE` = 'Surgeon.png' WHERE `echmt`.`ECMID` = 13;
