@@ -1,0 +1,9 @@
+*****************************************************************************************
+1052pm.sql
+*****************************************************************************************
+Inserted new data for user characteristics mapping and master table -UCHMT
+Altered gender column data type in user master table -USRMT
+Altered MappingID data type in user characteristics mapping table - UCHMP
+Altered MappingID Auto_Increment in user characteristics mapping table - UCHMP
+Inserted Entity Characteristics records - ECHMT
+*****************************************************************************************
